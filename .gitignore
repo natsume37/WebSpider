@@ -19,7 +19,8 @@ Thumbs.db
 # 日志
 *.log
 
-math/
-math-diagram/
+
 
 test/
+/math-diagram/
+/math/
